@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT
 
-module codeberg.org/iamruinous/go-geminitest
+module codeberg.org/iamruinous/geminitest
 
 go 1.17
 
