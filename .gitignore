@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: © 2022 Jade Meskill <iamruinous@ruinous.social>
+#
+# SPDX-License-Identifier: MIT
+
 # ---> Go
 # Binaries for programs and plugins
 *.exe
